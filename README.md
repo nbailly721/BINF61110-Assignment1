@@ -1,3 +1,5 @@
+Student Name: Nicolas Bailly
+
 **Introduction**
 
 This report has two objectives. Firstly, to assemble the genome of Salmonella enterica from raw reads provided in FASTQ format. The second objective is to assess the accuracy of the consensus genome by comparing it to a reference genome downloaded from NCBI, allowing the quantification of similarities and differences. As such, the goal is to determine the strengths and challenges of bioinformatics methods to assemble and align bacterial genomes.
